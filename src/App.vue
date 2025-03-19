@@ -20,7 +20,7 @@ import Button from "./components/Button.vue";
   src: url("../assets/Sashaoluu_Uzana.otf");
 }
 body {
-  background: url("./basketball-cs2.png");
+  background: url("../public/basketball-cs2.png");
   background-repeat: no-repeat;
 
   background-position: center top -100px;
