@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import Hello_page from "./components/Hello_page.vue";
 import Button from "./components/Button.vue";
 </script>
